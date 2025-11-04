@@ -8,7 +8,7 @@
   📝 <b>Blog:</b> <a href="https://pcylab.tistory.com/" target="_blank">pcylab.tistory.com</a>
 </p>
 
-  Tech Stacks
+  💡 Tech Stacks
   ---
 
   <h3>Language & Framework</h3>
@@ -45,7 +45,7 @@
 
   <br>
   
-<strong>Projects(Record)</strong>
+ 📖 <strong>Projects(Record)</strong>
 ---
 
 <br>
