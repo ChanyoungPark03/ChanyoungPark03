@@ -27,6 +27,12 @@
 
 </div>
 
+  <h3 align="center"> 🛠️ Tools </h3>
+<div align="center">  
+
+
+</div>
+
 <h3 align="center">🔎 Other</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
