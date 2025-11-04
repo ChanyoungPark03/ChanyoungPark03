@@ -73,23 +73,13 @@
 
 </div>
 
-<div align="center">
-  <p style="font-size:20px; font-weight:bold;">ChanyoungPark03</p>
-
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ChanyoungPark03&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/ChanyoungPark03?pet-id=773552057248714466&background=%2326A641"
-      width="700"
-      height="180"
-      style="border-radius:10px;"
-    />
-  </a>
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ChanyoungPark03&theme=default&hide_border=true&background=FFFFFF00&stroke=26A641&ring=26A641&fire=26A641&currStreakNum=000000&currStreakLabel=26A641"
-    width="430"
-  />
-
+<div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ChanyoungPark03&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ChanyoungPark03"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
-
 
