@@ -74,8 +74,5 @@
 </div>
 
 <div align="center">
-<img src="https://github-contribution-scoreboard.vercel.app/api/cards/ChanyoungPark03" width="400" />
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=default)
 </div>
-
-
