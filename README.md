@@ -52,10 +52,15 @@
 <br>
 <hr>
 
-<div>
+<div algin ="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=channy0210)](https://solved.ac/channy0210/)
+[![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
+
+</div>
 <br>
+
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark&layout=compact)
 
 ![ChanyoungPark03's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&bg_color=ffffff&title_color=00bfff&text_color=00bfff&icon_color=00bfff)
