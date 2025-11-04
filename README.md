@@ -68,9 +68,9 @@
 <h3> 🎖️ Top Langs & 🐈 GitHub Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&bg_color=ffffff&title_color=0000ff&text_color=0000ff&icon_color=0000ff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&bg_color=ffffff&title_color=0000ff&text_color=0000ff&icon_color=0000ff" height="200"/>
 </p>
 
 </div>
