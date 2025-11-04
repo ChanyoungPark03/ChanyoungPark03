@@ -8,10 +8,10 @@
   📝 <b>Blog:</b> <a href="https://pcylab.tistory.com/" target="_blank">pcylab.tistory.com</a>
 </p>
 
-  💡 Tech Stacks
-  ---
+💡 Tech Stacks
+---
 
-  <h3 align="center"> 🌐 Language & Framework</h3>
+<h3 align="center"> 🌐 Language & Framework</h3>
 <div align="center">  
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
@@ -40,18 +40,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  
 </div>
 
 <br>
   
-
 ---
 <h3> 🏆 Achievement</h3>
 <ul>
-  <li> [2023.11] 비교과로드맵 공모전 <span style="font-weight:700;">우수상</span> </li>
-  <li> [2024.10] 한국사능력검정시험 <span style="font-weight:700;">1급</span> </li>
+  <li> [2023.11] 비교과로드맵 공모전 <strong>우수상</strong> </li>
+  <li> [2024.10] 한국사능력검정시험 <strong>1급</strong> </li>
 </ul>
-
 
 <div align="center">
 
