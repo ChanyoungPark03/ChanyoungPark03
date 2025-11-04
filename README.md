@@ -74,5 +74,5 @@
 </div>
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=default)
+  <img src="https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=default">
 </div>
