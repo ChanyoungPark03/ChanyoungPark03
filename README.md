@@ -61,7 +61,8 @@
 <br>
 
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark&layout=compact)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact)
 
 ![ChanyoungPark03's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&bg_color=ffffff&title_color=00bfff&text_color=00bfff&icon_color=00bfff)
 
