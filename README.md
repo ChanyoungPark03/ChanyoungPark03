@@ -26,15 +26,6 @@
 
 </div>
 
-
-<h3 align="center"> 💾 Database</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20S3-006400?style=for-the-badge&logo=amazons3&logoColor=white">
-</div>
-
 <h3 align="center">🔎 Other</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
