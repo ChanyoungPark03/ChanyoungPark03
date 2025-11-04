@@ -62,7 +62,7 @@
 
 ---
 
-<h3> 🎖️ Top Langs & 😺 GitHub Stats </h3>
+<h3> 🎖️ Top Langs & 🐈 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="150"/>
