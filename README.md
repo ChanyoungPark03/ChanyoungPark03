@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=180&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p>
+  📫 <b>Email:</b> <a href="mailto:channy0210@naver.com">channy0210@naver.com</a><br>
+  📝 <b>Blog:</b> <a href="https://pcylab.tistory.com/" target="_blank">pcylab.tistory.com</a>
+</p>
+
 ![ChanyoungPark03's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark&layout=compact)
 
