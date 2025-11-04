@@ -11,7 +11,7 @@
   💡 Tech Stacks
   ---
 
-  <h3 align="center">Language & Framework</h3>
+  <h3 align="center"> 🌐 Language & Framework</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -20,7 +20,7 @@
 </div>
 
 
-<h3 align="center">Database</h3>
+<h3 align="center"> 💾 Database</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Amazon%20S3-006400?style=for-the-badge&logo=amazons3&logoColor=white">
 </div>
 
-<h3 align="center">Other</h3>
+<h3 align="center">🔎 Other</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
