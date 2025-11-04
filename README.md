@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  💻 <b>Backend Developer
+  💻 <b>Backend Developer <br>
   📫 <b>Email:</b> <a href="mailto:channy0210@naver.com">channy0210@naver.com</a><br>
   📝 <b>Blog:</b> <a href="https://pcylab.tistory.com/" target="_blank">pcylab.tistory.com</a>
 </p>
