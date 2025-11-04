@@ -55,14 +55,14 @@
 
 ---
 
-<b> 🏆 Algorithm Tier
+ <h3> 🏆 Algorithm Tier </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=channy0210)](https://solved.ac/channy0210)
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
 
 ---
 
-<b> 🎖️ Top Langs & 😺 GitHub Stats
+<h3> 🎖️ Top Langs & 😺 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="150"/>
