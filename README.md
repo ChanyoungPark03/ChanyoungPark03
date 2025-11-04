@@ -70,8 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&bg_color=ffffff&title_color=0000ff&text_color=0000ff&icon_color=0000ff" height="150"/>
 </p>
 
----
-
 </div>
 
 
