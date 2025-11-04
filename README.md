@@ -25,7 +25,7 @@
 
 </div>
 
-  <h3 align="center"> 🛠️ Tools </h3>
+  <h3 align="center"> 🛠️ Tool </h3>
 <div align="center">  
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -45,8 +45,14 @@
 
   <br>
   
- 📖 <strong>Projects(Record)</strong>
+
 ---
+<h3> 🏆 Achievement</h3>
+<ul>
+  <li> [2023.11] 비교과로드맵 공모전 <b> 우수상 </li>
+  <li> [2024.10] 한국사능력검정시험 <b> 1급 </li>
+</ul>
+
 
 <br>
 
@@ -54,7 +60,7 @@
 
 ---
 
- <h3> 🏆 Algorithm Tier </h3>
+ <h3> 🧠 Algorithm Tier </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=channy0210)](https://solved.ac/channy0210)
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
