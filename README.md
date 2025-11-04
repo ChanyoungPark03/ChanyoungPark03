@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Amazon%20S3-006400?style=for-the-badge&logo=amazons3&logoColor=white">
   </p>
 
-    <h3>Other</h3>
+  <h3>Other</h3>
   <p>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
