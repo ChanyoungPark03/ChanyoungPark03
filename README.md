@@ -8,7 +8,23 @@
   📝 <b>Blog:</b> <a href="https://pcylab.tistory.com/" target="_blank">pcylab.tistory.com</a>
 </p>
 
-![ChanyoungPark03's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark&layout=compact)
+  Tech Stacks
+  ---
+
+  <h3>Language & Framework</h3>
+
+<br>
+<hr>
+Projects(Record)
+
+<br>
+<hr>
+
+<div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=channy0210)](https://solved.ac/channy0210/)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark&layout=compact)
+
+![ChanyoungPark03's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=radical) 
+</div>
