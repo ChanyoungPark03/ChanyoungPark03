@@ -48,8 +48,8 @@
 ---
 <h3> 🏆 Achievement</h3>
 <ul>
-  <li> [2023.11] 비교과로드맵 공모전 <strong>우수상</strong> </li>
-  <li> [2024.10] 한국사능력검정시험 <strong>1급</strong> </li>
+  <li> [2023.11] 비교과로드맵 공모전 <span style="font-weight:700;">우수상</span> </li>
+  <li> [2024.10] 한국사능력검정시험 <span style="font-weight:700;">1급</span> </li>
 </ul>
 
 
