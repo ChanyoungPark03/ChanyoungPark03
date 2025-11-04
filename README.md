@@ -74,6 +74,14 @@
 </div>
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api/pet?username=ChanyoungPark03&theme=pixel" width="420">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ChanyoungPark03&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ChanyoungPark03"
+    width="600"
+    height="120"
+  />
+</a>
+  
 </div>
 
