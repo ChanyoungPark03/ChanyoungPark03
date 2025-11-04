@@ -74,5 +74,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=default">
+<img src="https://github-contributor-stats.vercel.app/api/pet?username=ChanyoungPark03&theme=pixel" width="420">
 </div>
+
