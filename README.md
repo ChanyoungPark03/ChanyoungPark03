@@ -63,10 +63,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=channy0210)](https://solved.ac/channy0210)
 &nbsp;&nbsp;
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
-
-<div align="center">
-  <img src="sandbox:/mnt/data/a68301de-6905-4bd5-a88e-905cca3a5b80.png" width="600"/>
-</div>
+&nbsp;&nbsp;
+![ChanyoungPark03's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ChanyoungPark03)
 
 ---
 
