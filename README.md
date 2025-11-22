@@ -64,6 +64,10 @@
 &nbsp;&nbsp;
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
 
+<div align="center">
+  <img src="/mnt/data/a68301de-6905-4bd5-a88e-905cca3a5b80.png" width="600"/>
+</div>
+
 ---
 
 <h3> 🎖️ Top Langs & 🐈 GitHub Stats </h3>
