@@ -65,7 +65,10 @@
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
 
 <div align="center">
-  <img src="/mnt/data/a68301de-6905-4bd5-a88e-905cca3a5b80.png" width="600"/>
+
+  <!-- Solved.ac 티어 카드 -->
+  ![ChanyoungPark03's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ChanyoungPark03)
+
 </div>
 
 ---
