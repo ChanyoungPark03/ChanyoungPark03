@@ -64,7 +64,11 @@
 &nbsp;&nbsp;
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
 &nbsp;&nbsp;
-![ChanyoungPark03's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ChanyoungPark03)
+
+<div align="center">
+![Solved.ac Graph](http://mazandi.herokuapp.com/api?handle=ChanyoungPark03&theme=warm)
+</div>
+
 
 ---
 
