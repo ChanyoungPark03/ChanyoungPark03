@@ -66,9 +66,8 @@
 &nbsp;&nbsp;
 
 <div align="center">
-![Solved.ac Graph](http://mazandi.herokuapp.com/api?handle=ChanyoungPark03&theme=warm)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ChanyoungPark03)
 </div>
-
 
 ---
 
