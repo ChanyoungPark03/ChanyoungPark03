@@ -65,10 +65,7 @@
 [![solved.ac tier](http://mazandi.herokuapp.com/api?handle=channy0210&theme=warm)](https://solved.ac/channy0210)
 &nbsp;&nbsp;
 
-<div align="center">
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ChanyoungPark03)
-</div>
-
+![channy0210's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=channy0210)
 ---
 
 <h3> 🎖️ Top Langs & 🐈 GitHub Stats </h3>
