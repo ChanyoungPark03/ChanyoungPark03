@@ -52,6 +52,7 @@
 <ul>
   <li> [2023.11] 비교과로드맵 공모전 <strong>우수상</strong> </li>
   <li> [2024.10] 한국사능력검정시험 <strong>1급</strong> </li>
+  <li> [2025.12 ~ 2025.1] Techeer 11기 부트캠프</strong> </li>
 </ul>
 
 <div align="center">
