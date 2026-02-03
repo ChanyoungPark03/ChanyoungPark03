@@ -67,7 +67,7 @@
 <div align="center">
 
 ---
-<<h3 align="center">🎖️ Top Langs & 🐈 GitHub Stats</h3>
+<h3 align="center">🎖️ Top Langs & 🐈 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&theme=default&hide_border=true" height="150" />
