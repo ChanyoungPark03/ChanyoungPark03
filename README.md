@@ -9,9 +9,6 @@
 
 <hr>
 
-## 🛠 Tech Stacks
-
----
 ## 💻 Tech Stack
 
 ### Language & Framework
@@ -32,7 +29,6 @@
 ![GITHUBACTIONS](https://img.shields.io/badge/GITHUBACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![GRAFANA](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 ![PROMETHEUS](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
 
 
 <h3 align="center"> 🛠️ Tool </h3>
