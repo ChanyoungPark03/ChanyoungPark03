@@ -53,13 +53,14 @@
 <div align="center">
 
 ---
-<h3 align="left">🎖️ Top Langs & 🐈 GitHub Stats</h3>
-
-<p align="center">
+<div align="center">
+  <h3>🎖️ Top Langs & 🐈 GitHub Stats</h3>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&theme=default&hide_border=true" height="150" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=default&hide_border=true" height="150" />
-</p>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ChanyoungPark03&utm_content=farm">
