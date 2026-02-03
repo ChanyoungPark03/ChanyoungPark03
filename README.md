@@ -58,6 +58,7 @@
   
 ---
 <h3> 🏆 Achievement</h3>
+
 <ul>
   <li> [2023.11] 비교과로드맵 공모전 <strong>우수상</strong> </li>
   <li> [2024.10] 한국사능력검정시험 <strong>1급</strong> </li>
@@ -67,7 +68,7 @@
 <div align="center">
 
 ---
-<h3 align="center">🎖️ Top Langs & 🐈 GitHub Stats</h3>
+<h3>🎖️ Top Langs & 🐈 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&theme=default&hide_border=true" height="150" />
@@ -85,4 +86,5 @@
       height="200"
     />
   </a>
+  
 </div>
