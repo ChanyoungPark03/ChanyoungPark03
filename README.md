@@ -53,13 +53,11 @@
 <div align="center">
 
 ---
-<h3>🎖️ Top Langs & 🐈 GitHub Stats</h3>
-
-<p align="center">
+<div align="left">
+  <h3>🎖️ Top Langs & 🐈 GitHub Stats</h3>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChanyoungPark03&layout=compact&theme=default&hide_border=true" height="150" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChanyoungPark03&show_icons=true&theme=default&hide_border=true" height="150" />
-</p>
+</div>
 
 <br/>
 
