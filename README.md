@@ -3,8 +3,8 @@
 </p>
 
 <p>
-  💻 <b> Main: SAP(ABAP) / Serve: Full-Stack Developer <br>
-  📫 <b>Email:</b> <a href="mailto:channy0210@naver.com">channy0210@naver.com</a><br>
+  💻 <b> Main-SAP(ABAP) / Serve-Full_Stack Developer <br>
+  📫 <b> Email:</b> <a href="mailto:channy0210@naver.com">channy0210@naver.com</a><br>
 </p>
 
 <hr>
